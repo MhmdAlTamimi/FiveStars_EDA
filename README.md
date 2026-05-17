@@ -19,7 +19,7 @@ FiveStars_EDA/
 │   │   └── data_cleaning/            (14-step preprocessing pipeline)
 │   └── README.md
 │
-├── InteractiveDashboard/          <- Shiny heatmap dashboard (revenue and trip counts by zone)
+├── InteractiveMap/	           <- Heatmap map of NYC Zones (revenue and trip counts by zone)
 │   ├── prep_dashboard_data.R      <- Aggregates cleaned data for the dashboard
 │   ├── dashboard_map.R            <- Shiny app with Leaflet map
 │   └── README.md
